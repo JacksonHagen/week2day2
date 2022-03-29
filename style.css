@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    min-height: 100vh;
+}
+.object-fit{
+    object-fit:cover;
+    height: 400px;
+    width: 100%;
+}
